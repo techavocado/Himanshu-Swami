@@ -1,86 +1,92 @@
-<h1 align="center">Hi, I'm Himanshu Swami 👋</h1>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Himanshu+Swami+👋;Full+Stack+Developer;B.Tech+CSE+Student;Building+real-world+web+apps" alt="Typing SVG" />
+<br/>
+<img src="https://komarev.com/ghpvc/?username=techavocado&style=flat-square&color=6366f1" alt="Profile views" />
+&nbsp;
+<a href="https://github.com/techavocado?tab=followers">
+  <img src="https://img.shields.io/github/followers/techavocado?style=flat-square&color=6366f1" alt="Followers" />
+</a>
+</div>
 
-<p align="center">
-  B.Tech CSE student · Full-Stack Developer · Building real-world web apps
-</p>
+👨‍💻 About me
+I'm a Computer Science undergraduate with a strong interest in full-stack web development and software engineering. I enjoy building practical, well-structured applications — from designing RESTful APIs and database schemas to crafting responsive, user-focused frontends.
+I focus on writing clean, maintainable code and understanding the engineering decisions behind every project I build.
 
-<p align="center">
-  <a href="https://github.com/techavocado">
-    <img src="https://komarev.com/ghpvc/?username=techavocado&style=flat-square&color=6366f1" alt="Profile views" />
-  </a>
-</p>
+🔨 Currently working on StayVista — a full-stack vacation rental platform with cloud storage, interactive maps, and role-based auth
+🌱 Exploring system design, scalable backend architecture, and data engineering with Python
+🎯 Looking for internship and research project opportunities in software engineering
+📫 Reach me at: [your.email@example.com]
+🏫 B.Tech CSE — [Your College Name]
 
----
 
-### About me
+🛠️ Tech stack
+Languages
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Frontend
+Show Image
+Show Image
+Show Image
+Show Image
+Backend
+Show Image
+Show Image
+Databases
+Show Image
+Show Image
+Data & Libraries
+Show Image
+Show Image
+Tools & Platforms
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
 
-I'm a Computer Science student passionate about building clean, functional, and scalable web applications. I enjoy working across the full stack — from designing RESTful APIs to crafting responsive UIs.
-
-- 🔨 Currently building **[StayVista](https://github.com/techavocado/stayvista-app)** — a full-stack vacation rental platform (Airbnb-style) with MVC architecture, cloud image hosting, interactive maps, and multi-role authorization
-- 🌱 Exploring software engineering best practices, system design, and scalable backend architecture
-- 💬 Ask me about Node.js, Express, MongoDB, or anything full-stack
-- 📫 Reach me at: **[your.email@example.com]**
-
----
-
-### Tech stack
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-
-**Database**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
----
-
-### Featured project
-
+🚀 Featured projects
 <a href="https://github.com/techavocado/stayvista-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techavocado&repo=stayvista-app&theme=default&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techavocado&repo=stayvista-app&theme=default&hide_border=true&title_color=6366f1&icon_color=6366f1" />
+</a>
+<br/><br/>
+StayVista — Full-stack vacation rental platform (Airbnb-style)
+
+Node.js · Express 5 · MongoDB Atlas · Passport.js · Cloudinary · MapTiler · Bootstrap 5
+
+Built an end-to-end property booking platform featuring MVC architecture, cloud image hosting, interactive geocoded maps, JWT-free session-based auth, and server-side validation with Joi. Fully responsive with role-based access control for owners and guests.
+
+Weather Dashboard — Real-time weather monitoring & analytics
+
+Node.js · Express.js · Chart.js · OpenWeatherMap API · Tailwind CSS
+
+Built an interactive weather dashboard with real-time data fetching, dynamic Chart.js visualizations (line, bar, doughnut), city search, 7-day forecasts, and a responsive UI that adapts to current weather conditions.
+
+📊 GitHub stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=techavocado&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=6366f1&icon_color=6366f1" height="150" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techavocado&layout=compact&theme=default&hide_border=true&title_color=6366f1" height="150" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techavocado&theme=default&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" height="150" />
+</div>
+
+🤝 Let's connect
+<a href="https://linkedin.com/in/yourprofile">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/techavocado">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
-**StayVista** is a production-grade vacation rental platform built with Node.js, Express 5, MongoDB Atlas, EJS, and Bootstrap 5. Features include:
-- 🗺️ Interactive map rendering via MapTiler geocoding API
-- ☁️ Cloud image upload with Cloudinary + Multer
-- 🔐 Authentication with Passport.js and session persistence via connect-mongo
-- ✅ Server-side validation with Joi; client-side with Bootstrap
-- 🧱 Clean MVC architecture with role-based authorization (owner vs guest)
-
----
-
-### GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techavocado&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techavocado&layout=compact&theme=default&hide_border=true" height="150" />
-</p>
-
----
-
-<p align="center">
-  <i>Open to internships and research project opportunities in software engineering and full-stack development.</i>
-</p>
+<div align="center">
+  <i>Open to internship and research project opportunities in software engineering and full-stack development.</i>
+</div>
