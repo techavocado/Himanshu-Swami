@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Himanshu+Swami+%F0%9F%91%8B;Full+Stack+Web+Developer;CS+Student+%7C+Builder+%7C+Problem+Solver;Open+to+Internships+%26+Research+Opportunities" alt="Typing SVG" />
 </div>
 <div align="center">
