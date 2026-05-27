@@ -85,8 +85,7 @@ A full-stack property booking platform built with the MVC pattern. Users can lis
 - Cascading deletes — removing a listing cleans up all associated reviews atomically
 - Mobile-first responsive design with a custom glassmorphism navbar and swipeable filter carousel
 [![StayVista Repo](https://img.shields.io/badge/View_Repo-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/techavocado/stayvista-app)
-[![Live Demo](https://stayvista-xruc.onrender.com/)](#)
- 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-46E3B7?style=flat-square&logo=render&logoColor=black)](stayvista-xruc.onrender.com)
 ---
  
 ### ⛅ Weather Dashboard — Real-Time Analytics App
