@@ -10,7 +10,6 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20to-Internships-success?style=flat-square" />
 </div>
----
  
 ## 👨‍💻 About Me
  
@@ -86,7 +85,7 @@ A full-stack property booking platform built with the MVC pattern. Users can lis
 - Cascading deletes — removing a listing cleans up all associated reviews atomically
 - Mobile-first responsive design with a custom glassmorphism navbar and swipeable filter carousel
 [![StayVista Repo](https://img.shields.io/badge/View_Repo-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/techavocado/stayvista-app)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-46E3B7?style=flat-square&logo=render&logoColor=black)](#)
+[![Live Demo](https://stayvista-xruc.onrender.com/)](#)
  
 ---
  
@@ -103,8 +102,8 @@ A full-stack weather analytics dashboard with a React frontend and a dedicated E
 - Celsius / Fahrenheit toggle, trending city quick-search, animated temperature icons that change based on actual temperature range
 - CORS-enabled Express backend proxying all API keys; deployed on Render with environment variable management
 - Fully responsive — iOS bottom-sheet style overlay on mobile, 2-column grid for stat cards
-[![Weather Dashboard Repo](https://img.shields.io/badge/View_Repo-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/techavocado)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-46E3B7?style=flat-square&logo=render&logoColor=black)](https://weather-dashboard-rsgt.onrender.com)
+[![Weather Dashboard Repo](https://img.shields.io/badge/View_Repo-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/techavocado/weather-dashboard)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-46E3B7?style=flat-square&logo=render&logoColor=black)](https://weather-dashboard-sage-pi.vercel.app/)
  
 ---
  
@@ -137,11 +136,11 @@ A full-stack weather analytics dashboard with a React frontend and a dedicated E
  
 ## 🤝 Connect
  
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://www.linkedin.com/in/himanshu-swami-179bba360?utm_source=share_via&utm_content=profile&utm_medium=member_android">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:your.email@example.com">
+<a href="mailto:himanshuswami770@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
