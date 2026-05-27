@@ -22,7 +22,7 @@ I'm a Computer Science undergraduate who builds **full-stack web applications** 
 
 I care about the engineering decisions behind what I build, not just that it runs.
 
-- 🏫 B.Tech, Computer Science and Engineering — **[Your College Name]**
+- 🏫 B.Tech, Computer Science and Engineering — **[Gandhinagar University]**
 - 🌱 Exploring system design, scalable backend architecture, and data engineering with Python
 - 🎯 Looking for internship and research project opportunities in software engineering
 - 📫 **himanshuswami770@gmail.com**
